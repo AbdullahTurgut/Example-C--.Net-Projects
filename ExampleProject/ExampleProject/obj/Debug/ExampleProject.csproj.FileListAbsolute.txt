@@ -1,0 +1,7 @@
+C:\Users\alcor\.NET-Projects\ExampleProject\ExampleProject\bin\Debug\ExampleProject.exe.config
+C:\Users\alcor\.NET-Projects\ExampleProject\ExampleProject\bin\Debug\ExampleProject.exe
+C:\Users\alcor\.NET-Projects\ExampleProject\ExampleProject\bin\Debug\ExampleProject.pdb
+C:\Users\alcor\.NET-Projects\ExampleProject\ExampleProject\obj\Debug\ExampleProject.csproj.AssemblyReference.cache
+C:\Users\alcor\.NET-Projects\ExampleProject\ExampleProject\obj\Debug\ExampleProject.csproj.CoreCompileInputs.cache
+C:\Users\alcor\.NET-Projects\ExampleProject\ExampleProject\obj\Debug\ExampleProject.exe
+C:\Users\alcor\.NET-Projects\ExampleProject\ExampleProject\obj\Debug\ExampleProject.pdb

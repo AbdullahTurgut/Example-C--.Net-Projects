@@ -1,0 +1,7 @@
+C:\Users\alcor\.NET-Projects\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+C:\Users\alcor\.NET-Projects\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
+C:\Users\alcor\.NET-Projects\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+C:\Users\alcor\.NET-Projects\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csproj.AssemblyReference.cache
+C:\Users\alcor\.NET-Projects\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\alcor\.NET-Projects\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+C:\Users\alcor\.NET-Projects\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb

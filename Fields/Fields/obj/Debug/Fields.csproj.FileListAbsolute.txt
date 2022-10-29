@@ -1,0 +1,7 @@
+C:\Users\alcor\.NET-Projects\Fields\Fields\bin\Debug\Fields.exe.config
+C:\Users\alcor\.NET-Projects\Fields\Fields\bin\Debug\Fields.exe
+C:\Users\alcor\.NET-Projects\Fields\Fields\bin\Debug\Fields.pdb
+C:\Users\alcor\.NET-Projects\Fields\Fields\obj\Debug\Fields.csproj.AssemblyReference.cache
+C:\Users\alcor\.NET-Projects\Fields\Fields\obj\Debug\Fields.csproj.CoreCompileInputs.cache
+C:\Users\alcor\.NET-Projects\Fields\Fields\obj\Debug\Fields.exe
+C:\Users\alcor\.NET-Projects\Fields\Fields\obj\Debug\Fields.pdb

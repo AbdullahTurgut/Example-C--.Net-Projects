@@ -1,0 +1,14 @@
+C:\Users\alcor\.NET-Projects\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.exe
+C:\Users\alcor\.NET-Projects\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.deps.json
+C:\Users\alcor\.NET-Projects\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.json
+C:\Users\alcor\.NET-Projects\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.dev.json
+C:\Users\alcor\.NET-Projects\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.dll
+C:\Users\alcor\.NET-Projects\Classes\Classes\bin\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\alcor\.NET-Projects\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.AssemblyReference.cache
+C:\Users\alcor\.NET-Projects\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alcor\.NET-Projects\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfoInputs.cache
+C:\Users\alcor\.NET-Projects\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfo.cs
+C:\Users\alcor\.NET-Projects\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.CoreCompileInputs.cache
+C:\Users\alcor\.NET-Projects\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.dll
+C:\Users\alcor\.NET-Projects\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\alcor\.NET-Projects\Classes\Classes\obj\Debug\netcoreapp3.1\Classes.genruntimeconfig.cache

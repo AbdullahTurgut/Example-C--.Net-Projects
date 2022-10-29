@@ -1,0 +1,7 @@
+C:\Users\alcor\source\repos\TestExample\TestExample\bin\Debug\TestExample.exe.config
+C:\Users\alcor\source\repos\TestExample\TestExample\bin\Debug\TestExample.exe
+C:\Users\alcor\source\repos\TestExample\TestExample\bin\Debug\TestExample.pdb
+C:\Users\alcor\source\repos\TestExample\TestExample\obj\Debug\TestExample.csproj.AssemblyReference.cache
+C:\Users\alcor\source\repos\TestExample\TestExample\obj\Debug\TestExample.csproj.CoreCompileInputs.cache
+C:\Users\alcor\source\repos\TestExample\TestExample\obj\Debug\TestExample.exe
+C:\Users\alcor\source\repos\TestExample\TestExample\obj\Debug\TestExample.pdb

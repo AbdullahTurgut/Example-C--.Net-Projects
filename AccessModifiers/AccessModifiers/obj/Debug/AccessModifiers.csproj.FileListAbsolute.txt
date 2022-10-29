@@ -1,0 +1,7 @@
+C:\Users\alcor\.NET-Projects\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+C:\Users\alcor\.NET-Projects\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe
+C:\Users\alcor\.NET-Projects\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.pdb
+C:\Users\alcor\.NET-Projects\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csproj.AssemblyReference.cache
+C:\Users\alcor\.NET-Projects\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\alcor\.NET-Projects\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.exe
+C:\Users\alcor\.NET-Projects\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.pdb
